@@ -14,4 +14,5 @@ return {
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.typst" },
+  { import = "astrocommunity.pack.yaml" },
 }
